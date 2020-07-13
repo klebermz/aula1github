@@ -1,0 +1,2 @@
+module estudando_java {
+}
