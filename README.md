@@ -12,6 +12,8 @@ Repositório para armazenar resumos sobre o GIT e GIT HUB do curso Versionamento
 | Aulas | Resumos |
 |-------|---------|
 |Gravando alterações no repositório local|[Resumos]()|
+|Editando alterações no repositório local|[Resumos]()|
+|Enviando alterações para repositório remoto|[Resumos]()|
 
 Para iniciar o git no diretório digite:
 ```
